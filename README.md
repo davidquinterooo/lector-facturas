@@ -2,6 +2,10 @@
 
 Un sistema desarrollado con Nuxt.js que genera facturas leyendo los codigos de barras, a traves de la camara gracias a la libreria StreamBarcodeReader y permite abrir, descargar e imprimirla en pdf. Gracias a la libreria pdfmake.
 
+## Imagenes del proyecto
+
+![Lector de barras](https://github.com/davidquinterooo/lector-facturas/blob/52819116fccee3dccbe81873443aa3f40e8ff8c1/Captura%20desde%202026-05-04%2009-33-29.png)
+
 ## Setup
 
 Make sure to install dependencies:
