@@ -6,6 +6,8 @@ Un sistema desarrollado con Nuxt.js que genera facturas leyendo los codigos de b
 
 ![Lector de barras](https://github.com/davidquinterooo/lector-facturas/blob/52819116fccee3dccbe81873443aa3f40e8ff8c1/Captura%20desde%202026-05-04%2009-33-29.png)
 
+![Lista de productos](https://github.com/davidquinterooo/lector-facturas/blob/6754706e31405e740a9b63905f4aa67b205addcf/Captura%20desde%202026-05-04%2009-33-53.png)
+
 ## Setup
 
 Make sure to install dependencies:
