@@ -1,6 +1,6 @@
-# Nuxt Minimal Starter
+## Generador de facturas con lector de barras 
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Un sistema desarrollado con Nuxt.js que genera facturas leyendo los codigos de barras, a traves de la camara gracias a la libreria StreamBarcodeReader y permite abrir, descargar e imprimirla en pdf. Gracias a la libreria pdfmake.
 
 ## Setup
 
@@ -37,39 +37,3 @@ yarn dev
 # bun
 bun run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
